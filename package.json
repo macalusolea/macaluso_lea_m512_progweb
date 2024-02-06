@@ -1,0 +1,17 @@
+{
+  "name": "Flag Quiz",
+  "version": "1.0.0",
+  "description": "ProgWeb 23-24 Final Exam",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Simon Pinkas",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
